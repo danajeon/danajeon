@@ -4,4 +4,4 @@ I am a Front-end Developer focused on building clean, user-centered applications
 
 ### Tech
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,figma,git,github&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,sass,figma,git,github&theme=dark&perline=4)](https://skillicons.dev)
