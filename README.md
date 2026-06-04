@@ -1,6 +1,6 @@
-## Full-Stack Developer (React | JavaScript | TypeScript | Tailwind | Figma)
+## Software Engineer (React | JavaScript | TypeScript | Tailwind | Figma)
 
-I am a Full-Stack Developer focused on building clean, user-centered applications. Experienced in React, JavaScript, TypeScript, and Tailwind CSS, with a strong emphasis on translating Figma designs into responsive and accessible interfaces.
+I am a Software Engineer focused on building clean, user-centered applications. Experienced in React, JavaScript, TypeScript, and Tailwind CSS, with a strong emphasis on translating Figma designs into responsive and accessible interfaces.
 
 ### Tech
 
